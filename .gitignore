@@ -1,0 +1,12 @@
+# Ignore the bin directory
+bin/
+
+# Ignore the obj directory
+obj/
+
+.vs/
+
+# Ignore user-specific files
+*.user
+*.suo
+.config/dotnet-tools.json
